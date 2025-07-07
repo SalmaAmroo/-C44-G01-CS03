@@ -143,7 +143,19 @@ namespace Assigment2c_
             //}
             #endregion
 
-          
+            #region Q9
+            //// Q9 : Write a program that takes two integers then prints the power.
+            //Console.WriteLine("Pls Enter Number");
+            //int Num = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter Power");
+            //int Power = int.Parse(Console.ReadLine());
+            //int Result = 1;
+            //for (int i = 1; i<= Power; i++)
+            //{ 
+            //    Result *= Num;
+            //}
+            //Console.WriteLine($"{Num}^{Power} = {Result}");
+            #endregion
 
         }
     }
