@@ -247,6 +247,21 @@ namespace Assigment2c_
 
             #endregion
 
+            #region Q13  
+            //// Q13: Write a program that takes a string from the user and prints it in reverse order.
+            //Console.Write("Please enter a string: ");
+            //string input = Console.ReadLine();
+
+            //string reversed = "";
+
+            //for (int i = input.Length - 1; i >= 0; i--)
+            //{
+            //    reversed += input[i];
+            //}
+
+            //Console.WriteLine($"Reversed string: {reversed}");
+            #endregion
+
         }
     }
 }
