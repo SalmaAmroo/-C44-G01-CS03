@@ -66,6 +66,24 @@ namespace Assigment2c_
 
 
             #endregion
+
+            #region Q4
+            ////Q4:Write a program that allows the user to insert an integer number then check If a number is even or odd.
+            //Console.WriteLine("Pls Enter a Number : ");
+            //int Num = int.Parse(Console.ReadLine());
+            //if (Num % 2 == 0)
+            //{
+            //    Console.WriteLine("Even");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Odd");
+
+            //}
+            #endregion
+
+          
+
         }
     }
 }
