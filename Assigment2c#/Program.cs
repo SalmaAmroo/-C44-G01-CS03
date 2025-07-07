@@ -106,7 +106,7 @@ namespace Assigment2c_
             //        Console.WriteLine("vowel"); break;
             //    default:
             //        Console.WriteLine("consonant"); break; 
-            }
+            //}
             #endregion
 
         }
