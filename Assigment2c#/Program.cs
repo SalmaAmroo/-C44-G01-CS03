@@ -182,7 +182,6 @@ namespace Assigment2c_
 
             #endregion
 
-
             #region Q11
             ////Q11 : 11- Write a program to input the month number and print the number of days in that month.
             //Console.Write("Enter month number (1 to 12): ");
@@ -216,6 +215,35 @@ namespace Assigment2c_
             //}
 
             //Console.WriteLine($"Number of days in month {month} = {days}");
+
+            #endregion
+
+            #region Q12
+            //// 12- Write a program to create a Simple Calculator.
+            //Console.WriteLine("Pls Enter two Num");
+            //int Num1 = int.Parse(Console.ReadLine());
+            //int Num2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the operation");
+            //char operation = char.Parse(Console.ReadLine());
+            //switch (operation)
+            //{
+            //    case '+':
+            //        Console.WriteLine($"Result = {Num1 + Num2}");
+            //        break;
+            //    case '-':
+            //        Console.WriteLine($"Result = {Num1 - Num2}");
+            //        break;
+            //    case '*':
+            //        Console.WriteLine($"Result = {Num1 * Num2}");
+            //        break;
+            //    case '/':
+            //        Console.WriteLine($"Result = {Num1 / Num2}");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Invalid operation");
+            //        break;
+
+            //}
 
             #endregion
 
