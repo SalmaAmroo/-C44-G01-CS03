@@ -109,6 +109,27 @@ namespace Assigment2c_
             //}
             #endregion
 
+            #region Q6
+            //// Q6 :Write a program that allows the user to insert an integer then print all numbers between 1 to that number.
+            //Console.WriteLine("Pls Enter Number");
+            //int Num = int.Parse(Console.ReadLine());
+            //for (int i=1; i <=Num;i++ )
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            #endregion
+
+            #region Q7
+            ////Q7 : Write a program that allows the user to insert an integer then print a multiplication table up to 12.
+            //Console.WriteLine("Pls Enter Number");
+            //int Num = int.Parse(Console.ReadLine());
+            //for (int i =1; i <=12; i++)
+            //{
+            //    Console.WriteLine($"{i}*{Num} = {i*Num}");
+            //}
+            #endregion
+
         }
     }
 }
