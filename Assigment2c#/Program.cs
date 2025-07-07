@@ -1,4 +1,7 @@
-﻿namespace Assigment2c_
+﻿using System.ComponentModel;
+using System.Xml.Linq;
+
+namespace Assigment2c_
 {
     class Program
     {
@@ -18,7 +21,6 @@
             //}
             #endregion
 
-
             #region Q2
             //// Q2: Write a program that allows the user to insert an integer then print negative if it is negative number otherwise print positive.
             //Console.WriteLine("Pls Enter Number : ");
@@ -29,6 +31,40 @@
             //}
             //else 
             //    Console.WriteLine("Positive");
+            #endregion
+
+            #region Q3 
+            ////Q3: Write a program that takes 3 integers from the user then prints the max element and the min element.
+            //Console.WriteLine("Pls Enter Three Numbers : ");
+            //int Num1 = int.Parse(Console.ReadLine());
+            //int Num2 = int.Parse(Console.ReadLine());
+            //int Num3 = int.Parse(Console.ReadLine());
+            //int MaxNum = Num1;
+            //int MinNum = Num1;
+
+            //if (Num2>MaxNum)
+            //{
+            //    MaxNum = Num2;
+            //}
+            //if (Num3 > MaxNum)
+            //{
+            //    MaxNum = Num3;
+            //}
+
+            //if (Num2 < MinNum)
+            //{
+            //    MinNum = Num2;
+            //}
+
+            //if (Num3 < MinNum)
+            //{
+            //    MinNum = Num3;
+            //}
+
+            //Console.WriteLine($"Max Number is : {MaxNum}");
+            //Console.WriteLine($"Min Number is : {MinNum}");
+
+
             #endregion
         }
     }
