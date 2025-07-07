@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Reflection.Metadata;
 using System.Xml.Linq;
 
 namespace Assigment2c_
@@ -82,7 +83,31 @@ namespace Assigment2c_
             //}
             #endregion
 
-          
+            #region Q5
+            ////Q5  Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant).
+            //Console.WriteLine("Pls Enter Char");
+            //char C = char.Parse(Console.ReadLine());
+            //switch(C)
+            //{
+            //    case 'a':
+            //    case 'A':
+            //        Console.WriteLine("vowel"); break;
+            //    case 'E':
+            //    case 'e':
+            //        Console.WriteLine("vowel"); break;
+            //    case 'I':
+            //    case 'i':
+            //        Console.WriteLine("vowel"); break;
+            //    case 'o':
+            //    case 'O':
+            //        Console.WriteLine("vowel"); break;
+            //    case 'u':
+            //    case 'U':
+            //        Console.WriteLine("vowel"); break;
+            //    default:
+            //        Console.WriteLine("consonant"); break; 
+            }
+            #endregion
 
         }
     }
