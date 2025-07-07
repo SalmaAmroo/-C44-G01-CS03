@@ -157,6 +157,31 @@ namespace Assigment2c_
             //Console.WriteLine($"{Num}^{Power} = {Result}");
             #endregion
 
+            #region Q10
+            ////Q10 :Write a program to enter marks of five subjects and calculate total, average and percentage.
+            //Console.WriteLine("Pls Enter Marks of Five Subjects");
+            //int[] Marks = new int[5];
+            //int Total = 0;
+            //Console.WriteLine("Enter Your Marks PLS");
+            //for (int i = 0; i <5;i++)
+            //{
+            //    Console.WriteLine($"Pls Enter Marks of Subject {i+1} : ");
+            //    Marks[i]=int.Parse(Console.ReadLine());
+            //    Total+=Marks[i];
+            //}
+
+            //double Average = Total / 5.0;
+            //double percentage = (Total / 500.0) * 100;
+
+            //Console.WriteLine($"Total Marks = {Total}");
+            //Console.WriteLine($"Average Marks = {Average}");
+            //Console.WriteLine($"Percentage = {percentage} %");
+
+
+
+
+            #endregion
+
         }
     }
 }
