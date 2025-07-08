@@ -352,6 +352,35 @@ namespace Assigment2c_
 
 
             #endregion
+
+            #region Q18
+
+            //Console.Write("Enter the time ");
+            //double hours = double.Parse(Console.ReadLine());
+
+            //if (hours >= 2 && hours <= 3)
+            //{
+            //    Console.WriteLine("The worker is highly efficient.");
+            //}
+            //else if (hours > 3 && hours <= 4)
+            //{
+            //    Console.WriteLine("The worker should increase their speed.");
+            //}
+            //else if (hours > 4 && hours <= 5)
+            //{
+            //    Console.WriteLine("The worker needs training to improve speed.");
+            //}
+            //else if (hours > 5)
+            //{
+            //    Console.WriteLine("The worker has to leave the company.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input.");
+            //}
+
+            #endregion
         }
+
     }
 }
