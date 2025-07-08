@@ -378,7 +378,6 @@ namespace Assigment2c_
             //{
             //    Console.WriteLine("Invalid input.");
             //}
-
             #endregion
         }
 
