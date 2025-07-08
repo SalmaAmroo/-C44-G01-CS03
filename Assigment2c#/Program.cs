@@ -268,7 +268,7 @@ namespace Assigment2c_
             //Console.WriteLine("Pls Enter a Number");
             //int Num = int.Parse(Console.ReadLine());
             //int reversed = 0;
-           
+
             //while (Num > 0)
             //{
             //    int digit = Num % 10;
@@ -276,6 +276,33 @@ namespace Assigment2c_
             //    Num /= 10;
             //}
             //Console.WriteLine($"Reversed Number is : {reversed}");
+            #endregion
+
+            #region Q15
+            ////Q15: Write a program in C# Sharp to find prime numbers within a range of numbers.
+            //Console.WriteLine("Pls Enter Start Number");
+            //int StartNum = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter End Number");
+            //int EndNum = int.Parse(Console.ReadLine());
+
+            //for (int num = StartNum; num <= EndNum; num++)
+            //{
+            //    if (num < 2) continue;
+
+            //    bool isPrime = true;
+
+            //    for (int i = 2; i * i <= num; i++)
+            //    {
+            //        if (num % i == 0)
+            //        {
+            //            isPrime = false;
+            //            break;
+            //        }
+            //    }
+
+            //    if (isPrime)
+            //        Console.Write(num + " ");
+            //}
             #endregion
 
         }
