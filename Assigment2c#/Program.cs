@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using System;
+using System.ComponentModel;
 using System.Reflection.Metadata;
 using System.Xml.Linq;
 
@@ -260,6 +261,21 @@ namespace Assigment2c_
             //}
 
             //Console.WriteLine($"Reversed string: {reversed}");
+            #endregion
+
+            #region Q14
+            //// Q14: Write a program that takes a number from the user and prints the reversed number.
+            //Console.WriteLine("Pls Enter a Number");
+            //int Num = int.Parse(Console.ReadLine());
+            //int reversed = 0;
+           
+            //while (Num > 0)
+            //{
+            //    int digit = Num % 10;
+            //    reversed = reversed * 10 + digit;
+            //    Num /= 10;
+            //}
+            //Console.WriteLine($"Reversed Number is : {reversed}");
             #endregion
 
         }
