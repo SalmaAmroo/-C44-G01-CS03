@@ -325,6 +325,33 @@ namespace Assigment2c_
 
             #endregion
 
-        }    
+            #region Q17
+            //Console.WriteLine("Pls Enter 3 point (x,y)");
+            //Console.WriteLine("Pls Enter point (x1,y1)");
+            //int x1 = int.Parse(Console.ReadLine());
+            //int y1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter point (x2,y2)");
+            //int x2= int.Parse(Console.ReadLine());
+            //int y2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter point (x3,y3)");
+            //int x3 = int.Parse(Console.ReadLine());
+            //int y3 = int.Parse(Console.ReadLine());
+
+            //double Slope1 =(double) (y2 - y1) / (x2 - x1);
+            //double Slope2 =(double)(y3 - y2) / (x3 - x2);
+
+            //if (Slope1 == Slope2)
+            //{
+            //    Console.WriteLine("The points are collinear.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The points are not collinear.");
+            //}
+
+
+
+            #endregion
+        }
     }
 }
